@@ -1,0 +1,3 @@
+template-file-path: vpc.yml
+parameters: {}
+tags: {}
